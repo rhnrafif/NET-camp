@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BelajarASPNetMiddleware", "BelajarASPNetMiddleware\BelajarASPNetMiddleware.csproj", "{EA06F4C5-9A9D-49F5-9A0E-B6B79419F246}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA06F4C5-9A9D-49F5-9A0E-B6B79419F246}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA06F4C5-9A9D-49F5-9A0E-B6B79419F246}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA06F4C5-9A9D-49F5-9A0E-B6B79419F246}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA06F4C5-9A9D-49F5-9A0E-B6B79419F246}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {907AD777-76AA-4FC9-B608-6715FC954F15}
+	EndGlobalSection
+EndGlobal

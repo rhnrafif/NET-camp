@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NawaDataApp", "NawaDataApp\NawaDataApp.csproj", "{639DAE52-93F9-4C56-B3E9-C4DE8F152BBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{639DAE52-93F9-4C56-B3E9-C4DE8F152BBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{639DAE52-93F9-4C56-B3E9-C4DE8F152BBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{639DAE52-93F9-4C56-B3E9-C4DE8F152BBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{639DAE52-93F9-4C56-B3E9-C4DE8F152BBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E83F42B-707D-4B43-9588-77DA7435FA9F}
+	EndGlobalSection
+EndGlobal
